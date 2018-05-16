@@ -11,6 +11,7 @@ export class HomeComponent implements OnInit {
     {icon:'store',category:'Giáo Viên',color:"green"},
     {icon:'info_outline',category:'Giáo Viên',color:"orange"},
     {icon:'content_copy',category:'Giáo Viên',color:"green"},
+    {icon:'content_copy',category:'Giáo Viên',color:"green"}
   ]
   constructor() { }
 
